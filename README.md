@@ -16,4 +16,19 @@ This repository contains the solution for the Data Scientist Intern Technical Te
 A detailed flowchart illustrating the end-to-end data pipeline—from raw data ingestion and text preprocessing to model training and evaluation—is included in this repository.
 * 📄 **View Flowchart:** Please refer to the `flowchart.png` file attached in this submission.
 
+## 🚀 Setup Instructions
+
+### Prerequisites
+Make sure you have Python 3.8+ installed. It is highly recommended to use a virtual environment.
+
+### 1. Clone or Extract the Repository
+Navigate to the project folder containing the `.ipynb` file and the dataset.
+
+### 2. Create and Activate Virtual Environment (Optional but recommended)
+```bash
+python -m venv venv
+# On Windows:
+venv\Scripts\activate
+# On macOS/Linux:
+source venv/bin/activate 
 
